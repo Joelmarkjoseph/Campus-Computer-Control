@@ -1,0 +1,11 @@
+
+============Status===========
+Individual Record Data Entry for Assets has been done (Cpu,monitors,printers,ups--> done  &&  switches and routers are pending due to no asset code collected from sir)
+
+===========What Next========
+If quantity entered then it must automatically insert that no.of record by changing sno, Asset Code
+
+===========Done earlier ==============
+If quantity entered then it automatically inserted that no.of record by changing sno, Asset Code
+
+WAITING TO MEET SIR !!
